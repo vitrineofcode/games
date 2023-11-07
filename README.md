@@ -6,9 +6,9 @@ This is a simple command-line version of the classic game "Rock, Paper, Scissors
 
 In this game, the player competes against the computer. The player chooses one of Rock, Paper, or Scissors, and the computer makes a random choice. The rules are:
 
-- Rock crushes Scissors
-- Scissors cuts Paper
-- Paper covers Rock
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
 
 If both the player and the computer make the same choice, the game is a tie.
 
